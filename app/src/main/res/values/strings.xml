@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NameCardApp</string>
+    <string name="pre_created_cards">PreCreatedCards</string>
+    <string name="saved_cards">SavedCards</string>
+    <string name="card_editor">CardEditor</string>
+    <string name="obtained_cards">ObtainedCards</string>
+    <string name="get_cards">GetCards</string>
+    <string name="app_options">Options</string>
+    <string name="app_quit">Quit</string>
+</resources>
