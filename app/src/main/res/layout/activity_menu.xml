@@ -7,20 +7,12 @@
     tools:context="com.example.tomi.namecardapp.MenuActivity">
 
     <LinearLayout
-
         android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:id="@+id/buttonLayout"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true">
-
-        <Button
-            android:id="@+id/preCreatedCards"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/pre_created_cards" />
-
         <Button
             android:id="@+id/savedCards"
             android:layout_width="fill_parent"
@@ -33,27 +25,6 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/card_editor"
-            tools:layout_editor_absoluteX="0dp"
-            tools:layout_editor_absoluteY="96dp" />
-        <Button
-            android:id="@+id/obtainedCards"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/obtained_cards"
-            tools:layout_editor_absoluteX="0dp"
-            tools:layout_editor_absoluteY="96dp" />
-        <Button
-            android:id="@+id/getCards"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/get_cards"
-            tools:layout_editor_absoluteX="0dp"
-            tools:layout_editor_absoluteY="96dp" />
-        <Button
-            android:id="@+id/options"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/app_options"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="96dp" />
         <Button

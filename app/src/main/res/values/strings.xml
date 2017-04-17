@@ -7,4 +7,5 @@
     <string name="get_cards">GetCards</string>
     <string name="app_options">Options</string>
     <string name="app_quit">Quit</string>
+    <string name="back">Back</string>
 </resources>
